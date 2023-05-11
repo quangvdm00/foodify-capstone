@@ -7,3 +7,6 @@
 [submodule "foodify-frontend"]
 	path = foodify-frontend
 	url = https://github.com/khuenguyen2611/foodify-frontend.git
+[submodule "Foodify"]
+	path = Foodify
+	url = https://github.com/Nez27/Foodify.git
