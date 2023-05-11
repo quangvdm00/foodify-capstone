@@ -1,0 +1,9 @@
+[submodule "foodify-backend"]
+	path = foodify-backend
+	url = https://github.com/khuenguyen2611/foodify-backend.git
+[submodule "foodify-user"]
+	path = foodify-user
+	url = https://github.com/khuenguyen2611/foodify-user
+[submodule "foodify-frontend"]
+	path = foodify-frontend
+	url = https://github.com/khuenguyen2611/foodify-frontend.git
